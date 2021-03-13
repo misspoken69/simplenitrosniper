@@ -1,5 +1,7 @@
 import os
 import discord
+from discord.ext import commands
+from discord.ext import tasks
 import colorama
 from colorama import Fore, init
 import ctypes
